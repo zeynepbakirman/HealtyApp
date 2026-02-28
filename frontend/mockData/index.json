@@ -1,0 +1,133 @@
+{
+  "shortInfo": [
+    {
+      "id": "si1",
+      "title": "Doğurganlığı Artıran En İyi 5 Atıştırmalık",
+      "subtitle": "1. MEYVE",
+      "content": "Bir porsiyon meyve harika ve hafif bir doğurganlık atıştırmalığı olabilir. Meyve tüketimi size canlı doğ...",
+      "image": "https://picsum.photos/seed/fruit/400/300",
+      "likes": 24,
+      "comments": 5,
+      "views": 150,
+      "author": "HiFertility",
+      "date": "2024-06-20 11:06:13"
+    },
+    {
+      "id": "si2",
+      "title": "Uyku ve Doğurganlık Arasındaki İlişki",
+      "content": "Sağlıklı bir yaşamın gereksinimlerinden biri olan uyku olgusu ruhu, zihni ve bedeni yeniden şarj etmek değerindeki kişinin stres ve sorumlulukları...",
+      "image": "https://picsum.photos/seed/sleep/400/300",
+      "likes": 12,
+      "comments": 3,
+      "views": 45,
+      "author": "HiFertility",
+      "date": "2024-06-21 09:30:00"
+    }
+  ],
+  "blogPosts": [
+    {
+      "id": "bp1",
+      "title": "Yoga ile Hormonal Denge",
+      "content": "Yoga yapmak stresi azaltır ve hormonal dengeyi destekler. Özellikle belirli pozlar pelvik bölgedeki kan akışını artırarak doğurganlığa katkı sağlar...",
+      "image": "https://picsum.photos/seed/yoga/400/300",
+      "likes": 85,
+      "comments": 12,
+      "views": 420,
+      "author": "Zeynep Uzman",
+      "date": "2024-06-25 14:20:00"
+    },
+    {
+      "id": "bp2",
+      "title": "Akdeniz Tipi Beslenme ve Gebelik",
+      "content": "Akdeniz tipi beslenme düzeninin gebelik şansını %40 oranında artırdığı bilimsel olarak kanıtlanmıştır. Zeytinyağı, sebze ve baklagil ağırlıklı beslenme...",
+      "image": "https://picsum.photos/seed/food/400/300",
+      "likes": 110,
+      "comments": 18,
+      "views": 560,
+      "author": "Dr. Canan S.",
+      "date": "2024-06-24 10:15:00"
+    }
+  ],
+  "homeFeed": [
+    {
+      "id": "hf1",
+      "title": "Günün Olumlaması",
+      "content": "Bedenim sağlıklı, zihnim huzurlu ve hayatın mucizelerine açığım. Her geçen gün hedefime bir adım daha yaklaşıyorum.",
+      "image": "https://picsum.photos/seed/meditation/400/300",
+      "likes": 45,
+      "comments": 8,
+      "views": 200,
+      "author": "Esra ARBAĞ",
+      "date": "2024-06-28 08:00:00"
+    },
+    {
+      "id": "hf2",
+      "title": "Yeni Kursumuz Yayında!",
+      "content": "Doğurganlık Masajı tekniklerini içeren yeni kursumuz artık Kurslar sekmesinde. Hemen izlemeye başlayın!",
+      "image": "https://picsum.photos/seed/massage/400/300",
+      "likes": 32,
+      "comments": 4,
+      "views": 180,
+      "author": "Sistem",
+      "date": "2024-06-27 12:00:00"
+    }
+  ],
+  "homework": [
+    {
+      "id": "1",
+      "title": "Doğurganlığı arttırıcı beslenme alışveriş listenizi hazırlayın",
+      "content": "Aylık alışveriş listenizi bu sefer doğurganlığı arttırıcı besinleri göz önünde bulundurarak hazırlayın ve sonrasında beraber gözden geçirelim",
+      "image": "https://picsum.photos/seed/grocery/400/300",
+      "author": "HiFertility",
+      "date": "2024-04-16 13:51:39",
+      "likes": 4,
+      "comments": 0,
+      "views": 28
+    }
+  ],
+  "lessons": [
+    {
+      "id": "1",
+      "title": "Ders-1",
+      "category": "Egzersiz",
+      "videos": [
+        { "id": "v1", "title": "Giriş ve Hazırlık", "duration": "09:51", "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
+        { "id": "v2", "title": "Temel Pozlar", "duration": "09:37", "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
+        { "id": "v3", "title": "Nefes Teknikleri", "duration": "10:22", "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Ders-2",
+      "category": "Doğurganlık Masajı",
+      "videos": [
+        { "id": "v1", "title": "Masaj Teknikleri", "duration": "02:36", "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
+        { "id": "v2", "title": "Uygulama - 1", "duration": "04:39", "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" },
+        { "id": "v3", "title": "Uygulama - 2", "duration": "04:05", "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ" }
+      ]
+    }
+  ],
+  "forumTopics": [
+    {
+      "id": "1",
+      "title": "Beslenme tavsiyeleri",
+      "author": "Ayşe Y.",
+      "replies": 5,
+      "date": "2024-06-25"
+    }
+  ],
+  "menuItems": [
+    { "id": "1", "title": "Bildirim", "icon": "notifications-outline" },
+    { "id": "2", "title": "Ev Ödevi", "icon": "book-outline" },
+    { "id": "3", "title": "Danışmanlık", "icon": "people-outline" },
+    { "id": "4", "title": "Yol Haritası", "icon": "map-outline" },
+    { "id": "5", "title": "Kurslar", "icon": "play-circle-outline" },
+    { "id": "6", "title": "Blog", "icon": "newspaper-outline" },
+    { "id": "7", "title": "Anket", "icon": "stats-chart-outline" },
+    { "id": "8", "title": "Forum", "icon": "chatbubbles-outline" },
+    { "id": "9", "title": "İletişim", "icon": "call-outline" },
+    { "id": "10", "title": "Hakkımızda", "icon": "information-circle-outline" },
+    { "id": "11", "title": "Onam", "icon": "document-text-outline" },
+    { "id": "12", "title": "Kısa Bilgiler", "icon": "bulb-outline" }
+  ]
+}
