@@ -4,6 +4,7 @@ HealtyApp, modern kadının sağlık yolculuğunda ona eşlik eden; doğurganlı
 
 📺 Uygulama Tanıtım Videosu
 Uygulamanın tüm özelliklerini ve çalışma performansını aşağıdaki YouTube bağlantısından izleyebilirsiniz:
+
 🔗 [https://youtu.be/MB3bpam5pVM?si=nb6JyB4krFgYGgKU]
 
 ---
